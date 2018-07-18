@@ -58,7 +58,7 @@ Shoot enderpearls and knock back other players!
 ### MobShooter
 Shoot at mobs and win that game
 
-<u>Working Status :</u> In dev<br>
+<u>Working Status :</u> Almost sure<br>
 <u>Author :</u> \_ZerkoyS
 
 ### Capture The Flag
