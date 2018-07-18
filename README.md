@@ -29,11 +29,11 @@ Code for the CTF game is not included due to explicit owner demand
 
 All of them might not work properly
 
-- [Tower](#Tower)
-- [Minecube](#Minecube)
-- [PearlWar](#PearlWar)
-- [MobShooter](#MobShooter)
-- [Capture The Flag (unavailable)](#Capture The Flag)
+- [Tower](#tower)
+- [Minecube](#minecube)
+- [PearlWar](#pearlwar)
+- [MobShooter](#mobshooter)
+- [Capture The Flag (unavailable)](#capture-the-flag)
 
 ## Games
 
