@@ -1,0 +1,9 @@
+IDs de chaque jeux:
+
+ N° | ID  | Nom officiel     | Nombre de joueurs
+—————————————————————————————————————————————————
+ 1  | twr | Tower            | 10 joueurs (5v5)
+ 2  | ctf | Capture The Flag | 10 joueurs (5v5)
+ 3  | mcb | Minecube         | 10 joueurs (1v1)
+ 4  | ltm | Lootmatch        | 16 joueurs (1v1)
+ 5  | twa | Tntwar           |  ∞ joueurs (1v1)
